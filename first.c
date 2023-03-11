@@ -1,8 +1,8 @@
 #include<stdio.h>
 
 int main(){
-
-printf("Hello in c prgramming");
+///// corection
+printf("Hello in ethe chuklay chabge kelay");
 
 return 0;
 
